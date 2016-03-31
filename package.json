@@ -1,7 +1,7 @@
 {
   "name": "hubot-spotify-meta",
   "description": "Hubot script to return metadata of Spotify links",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Chris Contolini <contolini@users.noreply.github.com>",
   "license": "MIT",
   "keywords": [
