@@ -25,7 +25,7 @@ spotify =
     ) \S+ ///
 
   process: (link) ->
-    match = /// (
+    match = link.match /// (
       ?: (http|https)://(open|play).spotify.com/(track|album|artist)/
        | spotify:(track|album|artist):
       ) (\S+) ///
