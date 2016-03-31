@@ -1,0 +1,35 @@
+{
+  "name": "hubot-spotify-meta",
+  "description": "Hubot script to return metadata of Spotify links",
+  "version": "1.0.0",
+  "author": "Chris Contolini <contolini@users.noreply.github.com>",
+  "license": "MIT",
+  "keywords": [
+    "spotify"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hubot-scripts/hubot-spotify-meta.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hubot-scripts/hubot-spotify-meta/issues"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-mocha-test": "~0.7.0",
+    "grunt-release": "~0.6.0",
+    "matchdep": "~0.1.2",
+    "mocha": "*",
+    "sinon": "*",
+    "sinon-chai": "*"
+  },
+  "main": "index.coffee",
+  "scripts": {
+    "test": "grunt test"
+  }
+}
