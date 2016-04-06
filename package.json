@@ -9,10 +9,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-spotify-meta.git"
+    "url": "git://github.com/contolini/hubot-spotify-meta.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-spotify-meta/issues"
+    "url": "https://github.com/contolini/hubot-spotify-meta/issues"
   },
   "dependencies": {
     "coffee-script": "~1.6"
